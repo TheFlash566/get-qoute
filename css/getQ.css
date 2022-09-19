@@ -1,0 +1,107 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.covering {
+	width: 71%;
+	margin: auto;
+	font-size: 16px;
+}
+
+.cover {
+	background: black;
+	display: flex;
+	height: 55px;
+}
+
+.nav-cont1 {
+	padding: 16px 35px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-cont {
+	padding: 16px 35px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    background: #ffae19;
+}
+
+.nav-cont7 {
+	padding: 16px 35px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+
+.sect1 {
+	background-image: url(../img/brandings.PNG);
+	height: 300px;
+	background-position: top;
+	background-size: 1368px;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    height: 640px !important;
+}
+.sect2 {
+	gap: 50px;
+	width: 71%;
+	margin: auto;
+	display: flex;
+}
+
+.sect-child1 {
+	width: 50%;
+    color: white;
+    padding-top: 14em;
+}
+
+.sect-child2 {
+	background: #000000d6;
+    color: white;
+    height: 475px;
+    text-align: center;
+    padding-top: 2em;
+    margin-top: 4em;
+    width: 46%;
+}
+
+.name {
+	width: 372px;
+    margin: auto;
+    height: 36px;
+    margin-bottom: 15px;
+}
+
+.email {
+	width: 372px;
+    margin: auto;
+    height: 36px;
+    margin-bottom: 15px;
+}
+
+.number {
+	width: 372px;
+    margin: auto;
+    height: 36px;
+    margin-bottom: 15px;
+}
+
+.message {
+	width: 372px;
+    margin: auto;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.callback {
+	text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    background: #ffae19;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+}
